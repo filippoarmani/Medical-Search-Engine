@@ -1,0 +1,324 @@
+qid;query;expanded_queries
+PLAIN-2;do cholesterol statin drugs cause breast cancer;"['1. ""Are cholesterol-lowering statins linked to an increased risk of breast cancer?""']"
+PLAIN-12;exploiting autophagy to live longer;"['1. ""Maximizing lifespan through autophagy mechanisms""']"
+PLAIN-23;how to reduce exposure to alkylphenols through your diet;"['""How to minimize consumption of alkylphenol in food""']"
+PLAIN-33;what’s driving america’s obesity problem;"['1. ""causes of america\'s obesity epidemic""']"
+PLAIN-44;who should be careful about curcumin;['1. Who is at risk when consuming curcumin supplements?']
+PLAIN-56;foods for glaucoma;['1. Foods beneficial for managing eye pressure in people with glaucoma']
+PLAIN-68;what is actually in chicken nuggets;['1. What ingredients are typically included in a chicken nugget?']
+PLAIN-78;what do meat purge and cola have in common;['1. What are the similarities between meat purge and cola drinks?']
+PLAIN-91;chronic headaches and pork parasites;['1. Chronic headaches and pork worms']
+PLAIN-102;stopping heart disease in childhood;['1. Preventing and treating childhood heart diseases']
+PLAIN-112;food dyes and adhd;['1. Food Coloring and ADHD']
+PLAIN-123;how citrus might help keep your hands warm;['1. What are some natural remedies for keeping hands warm using citrus fruits?']
+PLAIN-133;starving tumors of their blood supply;"['1. ""Starved tumor cells deprived of nutrient delivery""']"
+PLAIN-143;are dental x-rays safe;['1. Are dental X-rays harmful?']
+PLAIN-153;how should i take probiotics;['How can I incorporate probiotics into my diet?']
+PLAIN-165;breast cancer alcohol how much is safe;['1. Safe alcohol intake for those with breast cancer']
+PLAIN-175;diet and cellulite;['1. Diet plan for reducing cellulite']
+PLAIN-186;best treatment for constipation;['2. Effective remedies for alleviating constipation symptoms']
+PLAIN-196;should we avoid titanium dioxide;['1. Should we consider alternatives for using titanium dioxide in our products?']
+PLAIN-207;avoiding cooked meat carcinogens;"['1. ""reducing consumption of processed meats""']"
+PLAIN-217;plant-based diets for psoriasis;"['1. ""Plant-based diet treatment for psoriasis""']"
+PLAIN-227;increasing muscle strength with fenugreek;['1. How can I increase my muscle strength using fenugreek?']
+PLAIN-238;how chemically contaminated are we;['How toxic is our environment']
+PLAIN-248;treating an enlarged prostate with diet;['1. The effects of dietary changes in managing enlarged prostatic condition']
+PLAIN-259;optimal phytosterol dose and source;"['1. ""Recommended phytosterol intake for optimal health benefits""']"
+PLAIN-270;is caffeinated tea really dehydrating;['Is caffeine in tea truly responsible for causing dehydration?']
+PLAIN-280;mercury testing recommended before pregnancy;['Mercury Testing Recommended Before Pregnancy']
+PLAIN-291;stool size and breast cancer risk;"['1. ""Impact of stool size on breast cancer incidence""']"
+PLAIN-307;vitamin d shedding some light on the new recommendations;['1. What are the recent changes in vitamin D guidelines and how do they impact health?']
+PLAIN-320;breast cancer and diet;"['1. ""dietary habits in breast cancer prevention""']"
+PLAIN-332;can antioxidant-rich spices counteract the effects of a high-fat meal;['2. Can consuming antioxidant-rich spices alleviate symptoms after indulging in a fatty feast?']
+PLAIN-344;dioxins stored in our own fat may increase diabetes risk;"['1. ""Potential link between dioxin accumulation in body fat and increased diabetes risk""']"
+PLAIN-358;didnt another study show carnitine was good for the heart;"['1. ""has research proven that taking carnitine supplements is beneficial for cardiovascular health?""']"
+PLAIN-371;any update on the scary in vitro avocado data;['1. Any updates on the in vitro avocado safety study?']
+PLAIN-383;what do you think of dr jenkins take on paleolithic diets;['How about:']
+PLAIN-395;what about pepper plus turmeric in v8 juice;"['How about trying ""pepper and turmeric in v8 drink""?']"
+PLAIN-407;is annatto food coloring safe;['1. Are there any health risks associated with consuming annatto as a food coloring?']
+PLAIN-418;fresh fruit versus frozen--which is better;['1. What are the nutritional benefits of fresh fruits compared to frozen fruits?']
+PLAIN-430;are krill oil supplements better than fish oil capsules;['1. Are Krill Oil Supplements More Effective Than Fish Oil Capsules?']
+PLAIN-441;is apple cider vinegar good for you;['2. Can apple cider vinegar improve health?']
+PLAIN-457;how can you believe in any scientific study;['How do I maintain skepticism towards science?']
+PLAIN-468;is vitamin d3 cholecalciferol preferable to d2 ergocalciferol;['1. What are the benefits of taking D3 over D2?']
+PLAIN-478;accidents;"['1. ""traffic accidents""']"
+PLAIN-488;adenovirus 36;"['1. ""Adenovirus strain 36""']"
+PLAIN-499;african-american;"['1. ""black americans""']"
+PLAIN-510;airport scanners;['1. Airport security screening equipment']
+PLAIN-520;alli;"['1. ""search for alli products""']"
+PLAIN-531;alternative medicine;['1. holistic healing methods']
+PLAIN-541;american dental association;['1. What are the latest guidelines and recommendations issued by the American Dental Association regarding oral health care?']
+PLAIN-551;amnesia;['1. Memory loss']
+PLAIN-561;aneurysm;"['1. ""brain aneurysm""']"
+PLAIN-571;anisakis;"['1. ""Anisakiasis""']"
+PLAIN-583;antinutrients;['1. Foods rich in anti-nutrients']
+PLAIN-593;apnea;['1. Sleep apnea']
+PLAIN-603;arkansas;"['1. ""locations in arizona""']"
+PLAIN-613;ascorbic acid;['1. Vitamin C']
+PLAIN-623;atkins diet;['1. Atkins Diet Plan']
+PLAIN-634;avocados;"['1. ""Buying and preparing avocado recipes""']"
+PLAIN-645;bagels;"['1. ""pocket bagels""']"
+PLAIN-660;beans;['- beans']
+PLAIN-671;benzene;"['1. ""chemical compounds containing benzene""']"
+PLAIN-681;betel nuts;"['1. ""Eating habits related to betel nut consumption""']"
+PLAIN-691;bioavailability;['1. How is bioavailability measured in pharmacokinetics?']
+PLAIN-701;black raspberries;['1. Fresh black raspberry jam recipe']
+PLAIN-711;blood clots;['2. Health complications caused by blood clotting']
+PLAIN-721;bmaa;"['1. ""what is bmaa""']"
+PLAIN-731;bone fractures;"['1. ""broken bones""']"
+PLAIN-741;bph;"['1. ""BPH condition treatment options""']"
+PLAIN-751;brca genes;['1. Genetic mutations related to breast cancer']
+PLAIN-761;breast pain;"['1. ""pain in breast area""']"
+PLAIN-771;bronchiolitis obliterans;['bronchiolitis obstruction']
+PLAIN-782;bush administration;"['1. ""Presidential administration of George W. Bush""']"
+PLAIN-792;cadaverine;['1. cadaveric ammonia']
+PLAIN-806;caloric restriction;['1. Low calorie diet']
+PLAIN-817;canker sores;"['1. ""Oral ulcers""']"
+PLAIN-827;carcinogens;"['1. ""toxic substances causing cancer""']"
+PLAIN-838;carrageenan;"['1. ""gelatin substitute""']"
+PLAIN-850;cauliflower;"['1. ""broccoli""']"
+PLAIN-872;chanterelle mushrooms;['1. Wild chanterelles for identification and harvesting']
+PLAIN-882;chernobyl;"['1. ""Chernobyl disaster""']"
+PLAIN-892;chickpeas;"['1. ""how can i make a chickpea salad""']"
+PLAIN-902;chlorophyll;"['1. ""what is chlorophyll used for?""']"
+PLAIN-913;cinnamon;"['1. ""spices containing cinnamon""']"
+PLAIN-924;cocaine;['1. Amphetamines and stimulants containing methylphenidate']
+PLAIN-934;coffee;"['1. ""tea and coffee""']"
+PLAIN-946;coma;['2. brain damage after surgery']
+PLAIN-956;cooking methods;['1. How can I learn about various cooking techniques?']
+PLAIN-966;cortisol;"['1. ""levels of cortisol in blood""']"
+PLAIN-977;crib death;['1. SIDS - Sleep-Related Infant Death Syndrome']
+PLAIN-987;cumin;"['""cumin powder""']"
+PLAIN-997;czechoslovakia;"['1. ""slovak republic""']"
+PLAIN-1008;deafness;"['1. ""hearing loss""']"
+PLAIN-1018;dha;['1. DHA supplements for health benefits']
+PLAIN-1028;dietary scoring;['1. Health and nutrition evaluation criteria']
+PLAIN-1039;domoic acid;"['1. ""effects of domoic acid""']"
+PLAIN-1050;dr dean ornish;['1. Dr Dean Ornish Diet Plan']
+PLAIN-1066;dr walter willett;"['""Walter Willett doctor""']"
+PLAIN-1088;ecmo;['1. extracorporeal membrane oxygenation']
+PLAIN-1098;eggnog;['1. How can I make eggnog at home?']
+PLAIN-1109;endocrine disruptors;"['1. ""Effects of endocrine disrupting chemicals""']"
+PLAIN-1119;energy drinks;['1. sports energy drink']
+PLAIN-1130;ergothioneine;"['1. ""glutathione equivalent""']"
+PLAIN-1141;evidence-based medicine;"['""scientific approach in healthcare""']"
+PLAIN-1151;factory farming practices;"['1. ""methods used in large-scale livestock production""']"
+PLAIN-1161;fava beans;['1. What are fava beans and where can I find them?']
+PLAIN-1172;fenugreek;"['1. ""how do you use fenugreek for cooking?""']"
+PLAIN-1183;finland;"['1. ""countries with similar culture and language""']"
+PLAIN-1193;flax oil;"['1. ""Omega-3 flax seed oil""']"
+PLAIN-1203;folic acid;['1. Vitamin B9']
+PLAIN-1214;fosamax;['fosamax']
+PLAIN-1225;fructose;"['1. ""sugar content in fruits""']"
+PLAIN-1236;galactosemia;"['1. ""genetic disorder caused by galactose intolerance""']"
+PLAIN-1249;genetic manipulation;['2. Genetic engineering techniques']
+PLAIN-1262;global burden of disease study;"['1. ""impact of global health studies""']"
+PLAIN-1275;goji berries;"['2. ""health benefits of goji berries""']"
+PLAIN-1288;grapes;"['1. ""avocado""']"
+PLAIN-1299;growth promoters;"['1. ""nutritional supplements for animal growth""']"
+PLAIN-1309;halibut;['1. How do I prepare halibut for cooking?']
+PLAIN-1320;harvard physicians’ study ii;['1. Harvard Medical School Study II']
+PLAIN-1331;hearing;"['1. ""listening""']"
+PLAIN-1342;heme iron;"['1. ""Sources of heme iron""']"
+PLAIN-1353;hernia;['hernia surgery']
+PLAIN-1363;hiroshima;"['1. ""hiroshima bombings""']"
+PLAIN-1374;hormonal dysfunction;"['1. ""Endocrine system disorders""']"
+PLAIN-1387;hyperactivity;"['1. ""Excessive restlessness and impulsivity""']"
+PLAIN-1398;igf-1;['1. IGF-1 levels in blood']
+PLAIN-1409;industrial toxins;['1. Health effects of industrial pollutants']
+PLAIN-1419;insects;['- Insects']
+PLAIN-1429;iowa women’s health study;"[""2023 Iowa Women's Health Study""]"
+PLAIN-1441;japan;"['1. ""places to visit in japan""']"
+PLAIN-1453;junk food;['1. unhealthy snacks']
+PLAIN-1463;kidney beans;"['1. ""canned kidney beans""']"
+PLAIN-1473;kohlrabi;"['1. ""baby kohlrabi""']"
+PLAIN-1485;lard;['lard spread']
+PLAIN-1496;leeks;"['1. ""onion and leek soup""']"
+PLAIN-1506;leucine;"['""Leucine""']"
+PLAIN-1516;lindane;"['1. ""organic lindane""']"
+PLAIN-1527;liver disease;['1. Kidney and liver diseases']
+PLAIN-1537;low-carb diets;['25% of daily calories from fat']
+PLAIN-1547;lyme disease;"['1. ""symptoms of Lyme disease""']"
+PLAIN-1557;magnesium;"['1. ""calcium supplement""']"
+PLAIN-1568;maple syrup;['1. How can I make homemade maple syrup at home?']
+PLAIN-1579;mastitis;"['1. ""breast infection""']"
+PLAIN-1590;medical ethics;"['""professional medical ethics""']"
+PLAIN-1601;memory;['1. What are some tips for improving memory retention?']
+PLAIN-1611;mesquite;"['1. ""What is mesquite?""']"
+PLAIN-1621;mevacor;"['1. ""medicinal use of mevacor""']"
+PLAIN-1635;milk;"['1. ""almond milk""']"
+PLAIN-1645;molasses;"['1. ""how is molasses made?""']"
+PLAIN-1656;mouth cancer;['1. Oral cavity cancer']
+PLAIN-1667;muscle health;['1. Enhance muscle mass and strength']
+PLAIN-1679;myelopathy;['1. spinal cord disorder']
+PLAIN-1690;national academy of sciences;['national academies of science']
+PLAIN-1700;native americans;['1. Indigenous people of North America']
+PLAIN-1710;neurocysticercosis;"['2. ""Neuroparasitic cyst disease""']"
+PLAIN-1721;nih-aarp study;"['1. ""Nih-AARP study summary""']"
+PLAIN-1731;norovirus;"['1. ""Norwalk virus""']"
+PLAIN-1741;nuts;"['1. ""almonds""']"
+PLAIN-1752;okra;"['1. ""green beans""']"
+PLAIN-1762;oral intraepithelial neoplasia;"['1. ""Oral epithelial dysplasia""']"
+PLAIN-1772;organotins;"['1. ""Organometallic compounds""']"
+PLAIN-1784;oxen meat;"['1. ""meat from oxen""']"
+PLAIN-1794;panama;"['1. ""Where is Panama located?""']"
+PLAIN-1805;parkinsons disease;"[""1. Parkinson's disease""]"
+PLAIN-1817;peanut butter;"['1. ""chocolate peanut butter sandwich""']"
+PLAIN-1827;peoria;"['1. ""Places near Peoria""']"
+PLAIN-1837;pesticides;"['1. ""weed killers""']"
+PLAIN-1847;philippines;"['1. ""countries in southeast asia""']"
+PLAIN-1857;phytic acid;"['1. ""plant-based compounds""']"
+PLAIN-1867;pineapples;"['1. ""fresh pineapple recipes""']"
+PLAIN-1877;plant-based diet;['1. Vegan diet']
+PLAIN-1887;poisonous plants;"['1. ""plants with toxic effects""']"
+PLAIN-1897;polypropylene plastic;"['1. ""Polymer made from propylene""']"
+PLAIN-1909;pork;"['1. ""roast pork""']"
+PLAIN-1919;poultry workers;"['""Poultry Workers""']"
+PLAIN-1929;prenatal vitamins;['1. prenatal supplements for expecting mothers']
+PLAIN-1940;prolactin;"['1. ""levels of prolactin in blood""']"
+PLAIN-1950;prunes;['1. Figs and plums']
+PLAIN-1962;pumpkin;"['1. ""halloween pumpkin carving ideas""']"
+PLAIN-1972;quinine;['2) How can I make quinine syrup at home?']
+PLAIN-1983;rapamycin;"['1. ""uses of rapamycin""']"
+PLAIN-1995;red tea;['1. Green tea with red leaves']
+PLAIN-2009;rhabdomyolysis;"['1. ""Myoglobinuria""']"
+PLAIN-2019;rickets;"['1. ""bone disease in children""']"
+PLAIN-2030;rutin;['1. What is rutin and its benefits?']
+PLAIN-2040;salmon;"['1. ""Where can I find fresh salmon?""']"
+PLAIN-2051;saturated fat;['2. High cholesterol diet']
+PLAIN-2061;seafood;['1. Vegetarian seafood dishes']
+PLAIN-2071;serotonin;['2. Mood stabilizers and their impact on serotonin levels']
+PLAIN-2081;shelf life;"['""expiration date""']"
+PLAIN-2092;sirtuins;"['1. ""regulation of sirtuin proteins""']"
+PLAIN-2102;smoking;"['1. ""harmful substances""']"
+PLAIN-2113;soil health;['Soil vitality']
+PLAIN-2124;spearmint;"['1. ""mint flavor""']"
+PLAIN-2134;splenda;"['1. ""allulose""']"
+PLAIN-2145;st johns wort;"['1. ""kava""']"
+PLAIN-2156;stevia;"['1. ""natural sweetener alternatives""']"
+PLAIN-2167;subsidies;['1. What are some examples of government aid programs?']
+PLAIN-2177;sulfur;"['1. ""search for sulfur compounds""']"
+PLAIN-2187;suppositories;"['1. ""Rectal suppositories""']"
+PLAIN-2197;sweeteners;['1. Artificial sweeteners']
+PLAIN-2209;taro;"['1. ""how do i grow taro plants?""']"
+PLAIN-2220;tempeh;"['1. ""tofu""']"
+PLAIN-2230;thiamine;"['1. ""Vitamin B9""']"
+PLAIN-2240;titanium dioxide;"['1. ""silica dioxide""']"
+PLAIN-2250;tongue worm;"['- ""worms in the mouth""']"
+PLAIN-2261;trans fats;"['""healthy alternatives for trans fats""']"
+PLAIN-2271;tufts;"['1. ""tufts university""']"
+PLAIN-2281;turnips;"['1. ""potatoes""']"
+PLAIN-2291;ultra-processed foods;"['1. ""highly processed food items""']"
+PLAIN-2301;uterine health;['1. uterine wellness']
+PLAIN-2311;veal;"['1. ""beef and veal""']"
+PLAIN-2321;veggie chicken;['1. Vegetarian chicken']
+PLAIN-2332;viral infections;"['1. ""infectious diseases""']"
+PLAIN-2343;vitamin k;"['1. ""supplement containing vitamin K""']"
+PLAIN-2354;walnut oil;['1. Can you recommend high-quality walnut oil for cooking and skincare?']
+PLAIN-2364;weight gain;['1. How can I lose weight?']
+PLAIN-2375;whiting;"['1. ""broad white fish""']"
+PLAIN-2386;worms;"['1. ""earthworms""']"
+PLAIN-2396;yale;"['1. ""university of yale""']"
+PLAIN-2408;zoloft;"['""Zoloft alternatives""']"
+PLAIN-2430;preventing brain loss with b vitamins;['1. How can I maintain cognitive function using B-vitamins?']
+PLAIN-2440;more than an apple a day combating common diseases;['1. Fighting chronic illnesses with nutritious habits']
+PLAIN-2450;are organic foods safer;['1. Are there any health benefits of consuming organic foods?']
+PLAIN-2460;diabetes as a disease of fat toxicity;['1. Diabetes and obesity: A study on how excess body fat contributes to the development and progression of diabetes.']
+PLAIN-2470;is milk good for our bones;['1. Can dairy products like milk be beneficial for bone health?']
+PLAIN-2480;preventing ulcerative colitis with diet;['1. How can I prevent and manage ulcerative colitis through dietary changes?']
+PLAIN-2490;the actual benefit of diet vs drugs;['1. What are the real advantages of adopting a healthy diet over medication?']
+PLAIN-2500;the saturated fat studies buttering up the public;"['1. ""Impact of dietary fats on cardiovascular health""']"
+PLAIN-2510;coffee and artery function;['1. Coffee and heart health']
+PLAIN-2520;caloric restriction vs plant-based diets;"['1. ""health benefits of caloric restriction and plant-based diets""']"
+PLAIN-2530;infectobesity adenovirus 36 and childhood obesity;"['1. ""Infection with Adenovirus 36 in Childhood Obesity""']"
+PLAIN-2540;does cholesterol size matter;"['1. ""What is the significance of cholesterol particle size?""']"
+PLAIN-2550;barriers to heart disease prevention;['1. What are the obstacles in preventing heart disease?']
+PLAIN-2560;childhood constipation and cow’s milk;['1. Childhood constipation and dairy products']
+PLAIN-2570;diabetics should take their pulses;['1. Diabetic patients need to check their pulse regularly.']
+PLAIN-2580;academy of nutrition and dietetics conflicts of interest;['1. Nutrition and Dietetics Academy Conflicts of Interest']
+PLAIN-2590;do vegetarians get enough protein;['1. How can I ensure adequate protein intake for a vegetarian diet?']
+PLAIN-2600;eggs and arterial function;"['1. ""effects of eggs on blood vessels""']"
+PLAIN-2610;treating asthma with plants vs supplements;"['1. ""natural remedies for managing asthma symptoms""']"
+PLAIN-2620;phytates for the treatment of cancer;"['1. ""phytates in the prevention and management of cancer""']"
+PLAIN-2630;alkylphenol endocrine disruptors and allergies;"['1. ""Effects of alkylphenol endocrine disruptors on human health""']"
+PLAIN-2640;chicken salmonella thanks to meat industry lawsuit;"['1. ""chicken salmonella outbreak due to meat industry lawsuits""']"
+PLAIN-2650;turmeric curcumin and osteoarthritis;['1. Turmeric Curcumin and Osteoarthritis Treatment']
+PLAIN-2660;how long to detox from fish before pregnancy;['1. How long should I wait after eating fish before trying to conceive?']
+PLAIN-2670;is caramel color carcinogenic;"['1. ""Does caramel coloring cause cancer?""']"
+PLAIN-2680;counteracting the effects of dioxins through diet;['1. How can I improve my health by reducing exposure to dioxin through dietary choices?']
+PLAIN-2690;chronic headaches and pork tapeworms;['1. Chronic Headaches And Pork Tapeworm Infections']
+PLAIN-2700;heart disease starts in childhood;"['1. ""early onset heart disease""']"
+PLAIN-2710;artificial food colors and adhd;"['1. ""effect of artificial food coloring on attention deficit hyperactivity disorder""']"
+PLAIN-2720;keeping your hands warm with citrus;['1. How do I keep my hands warm using citrus fruits?']
+PLAIN-2730;anti-angiogenesis cutting off tumor supply lines;"['1. ""tumor vascular blockade method""']"
+PLAIN-2740;cancer risk from ct scan radiation;['1. Cancer risks associated with CT scans and their comparison to other imaging methods']
+PLAIN-2750;preventing the common cold with probiotics;['1. How can I prevent getting a cold by taking probiotic supplements?']
+PLAIN-2760;eating healthy on a budget;"['1. ""Diet plans for saving money""']"
+PLAIN-2770;flaxseeds breast cancer survival clinical evidence;"[""2. Flaxseed consumption and its impact on breast cancer patients' outcomes""]"
+PLAIN-2780;do fruit nut bars cause weight gain;['1. Can eating fruit and nut bars lead to weight gain?']
+PLAIN-2790;titanium dioxide inflammatory bowel disease;['1. Titanium dioxide and inflammatory bowel disease']
+PLAIN-2800;prolonged liver function enhancement from broccoli;['1. Benefits of consuming broccoli for prolonged improvement in liver functions']
+PLAIN-2810;apple juice may be worse than sugar water;['2. What are healthier alternatives to apple juice and sugar water?']
+PLAIN-2820;preventing strokes with diet;['1. How can I prevent a stroke by changing my eating habits?']
+PLAIN-2830;neurobiology of artificial sweeteners;['1. The impact of artificial sweeteners on brain functions and neural pathways']
+PLAIN-2840;benefits of fenugreek seeds;['1. Health benefits of fenugreek']
+PLAIN-2850;more antibiotics in white meat or dark meat;['1. Are there more antibiotics found in poultry of a darker color (dark meat) compared to lighter colored ones (white meat)?']
+PLAIN-2860;bpa plastic and male sexual dysfunction;['1. BPA exposure and its effects on male sexual health']
+PLAIN-2870;filled full of lead;"['1. ""packed with lead""']"
+PLAIN-2880;the answer to the pritikin puzzle;['1. What is the solution to the Pritikin diet puzzle?']
+PLAIN-2890;to snack or not to snack;['1. Should I eat snacks?']
+PLAIN-2900;boosting good bacteria in the colon without probiotics;['Boosting gut health through natural sources']
+PLAIN-2910;optimal phytosterol dose;['1. What is the recommended daily intake of phytosterols?']
+PLAIN-2920;human neurotransmitters in plants;"['1. ""chemicals produced by plants""']"
+PLAIN-2930;kiwifruit for irritable bowel syndrome;"['1. ""kinds of kiwi fruit for irritable bowel syndrome""']"
+PLAIN-2940;dietary treatment of crohns disease;"['1. ""removal and treatment of inflammatory bowel diseases""']"
+PLAIN-2950;unsafe at any feed;"['1. ""potentially dangerous feeds""']"
+PLAIN-2960;pharmacists versus health food store employees who gives better advice;['1. Pharmacists vs. Health Food Store Employees in Terms of Advice Quality']
+PLAIN-2970;preventing cataracts with diet;['2. How can a balanced diet prevent cataracts?']
+PLAIN-2981;cheese mites and maggots;"['1. ""pests affecting cheese production""']"
+PLAIN-2991;cholesterol and lower back pain;['1. Cholesterol and Back Pain']
+PLAIN-3001;epic findings on lymphoma;"['1. ""in-depth studies of rare forms of lymphoma""']"
+PLAIN-3014;sometimes the enzyme myth is true;['1. Sometimes the belief in enzymes being crucial for metabolism turns out to be accurate.']
+PLAIN-3026;vitamin c-enriched bacon;"['1. ""High vitamin C bacon""']"
+PLAIN-3037;out of the lab onto the track;"['1. ""from laboratory to athletic field""']"
+PLAIN-3053;dragons blood;"['2. ""dragon\'s blood""']"
+PLAIN-3063;better than goji berries;['1. What are some alternatives to goji berries in terms of health benefits?']
+PLAIN-3074;how to help prevent abdominal aortic aneurysms;"['""How to reduce the risk of developing abdominal aortic aneurysm""']"
+PLAIN-3085;the difficulty of arriving at a vitamin d recommendation;"['1. ""The complexity in determining appropriate vitamin D levels""']"
+PLAIN-3097;amyloid and apple juice;['1. amyloid protein in apple juice']
+PLAIN-3116;dietary guidelines from dairies to berries;['1. Dietary recommendations for dairy products and fruits']
+PLAIN-3131;are avocados good for you;['How about:']
+PLAIN-3141;relieving yourself of excess estrogen;['2) Lowering high levels of estrogens']
+PLAIN-3151;too much iodine can be as bad as too little;['1. Excessive intake of iodine may have adverse effects similar to deficiency.']
+PLAIN-3161;is milk and mucus a myth;['1. Is it true that there is no such thing as milk and mucus?']
+PLAIN-3171;convergence of evidence;"['""verification of data consistency""']"
+PLAIN-3181;is dragon fruit good for you;"['1. ""Nutritional benefits of dragon fruit""']"
+PLAIN-3191;is distilled fish oil toxin-free;['1. Is there any risk of toxins in distilled fish oil supplements?']
+PLAIN-3201;acne cancer connection;['1. The link between acne and skin cancer']
+PLAIN-3211;overdosing on greens;"['1. ""taking too much of green supplements""']"
+PLAIN-3221;dietary theory of alzheimers;"[""1. The dietary principles behind Alzheimer's disease""]"
+PLAIN-3231;meat multiple myeloma;"['1. ""bone marrow cancer with multiple myeloma""']"
+PLAIN-3241;apthous ulcer mystery solved;['1. Apathetic ulcer mystery resolved']
+PLAIN-3251;epic study;['1. Epic research']
+PLAIN-3261;update on herbalife®;"['1. ""Update my account on Herbalife""']"
+PLAIN-3271;saturated fat cancer progression;"['1. ""Impact of saturated fats on cancer development""']"
+PLAIN-3281;aluminum in vaccines vs food;"['1. ""comparison of aluminum content in vaccines versus dietary intake""']"
+PLAIN-3292;are multivitamins good for you;['1. What are the health benefits of taking multivitamin supplements?']
+PLAIN-3302;fish fog;['1. Fish vapor']
+PLAIN-3312;sexually transmitted fish toxin;['1. Fish toxins linked with sexual behavior']
+PLAIN-3322;veggies vs cancer;"['1. ""effects of consuming vegetables on reducing cancer risk""']"
+PLAIN-3332;alcohol risks vs benefits;"['1. ""Alcohol health effects comparison""']"
+PLAIN-3342;is coconut milk good for you;['1. Can coconut milk be beneficial?']
+PLAIN-3352;boosting heart nerve control;['1. Enhancing Heart and Nerve Function']
+PLAIN-3362;kuna indian secret;"['1. ""hidden kuna tribe location""']"
+PLAIN-3372;the healthiest sweetener;['2) What are some natural alternatives for using honey as a sweetener?']
+PLAIN-3382;are artificial colors bad for you;"['""can artificial food coloring harm health""']"
+PLAIN-3392;healthiest airplane beverage;"['1. ""Best options for the healthiest airplane drink""']"
+PLAIN-3402;antioxidant content of 300 foods;['2) Nutritional value of antioxidant-rich foods']
+PLAIN-3412;plant vs cow calcium;"['1. ""Calcium content comparison between plants and cows""']"
+PLAIN-3422;vitamin supplements worth taking;['2) Are there any vitamins essential for daily health maintenance?']
+PLAIN-3432;healthy chocolate milkshakes;"['1. ""low-fat chocolate milkshake recipes""']"
+PLAIN-3442;the healthiest vegetables;"['1. ""Vegetables with the lowest calorie content""']"
+PLAIN-3452;bowel movement frequency;['2. How often should I expect my bowel movements?']
+PLAIN-3462;olive oil and artery function;"['1. ""Impact of olive oil on heart health""']"
+PLAIN-3472;how doctors responded to being named a leading killer;['1. How did medical professionals react when they were identified as a significant cause of death?']
